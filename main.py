@@ -9,5 +9,5 @@ while True:
 
     time.sleep(1)
     led1.off()
-
+    led2.on()  # Agrega esta línea
     time.sleep(1)
